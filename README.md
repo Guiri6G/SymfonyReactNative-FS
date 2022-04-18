@@ -4,15 +4,10 @@
 Front : React native 
 Back | Api : Symfony
 
-## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+capture écran appli (lien onedrive accessible depuis email ynov) : https://auvencecom-my.sharepoint.com/:v:/g/personal/guillaume_guiriaboye_ynov_com/EUv21kwFGHNNvpYcRnqeXiABtPGejeB_3OQ6fDcY-7FHbA?e=VENDPB
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-
+(La 1ère fermeture de l'app est pour vérifier/montrer que la connexion est bien stockée dans le asyncstorage et que l'utilisateur reste bel et bien connecté même s'il ferme l'application.)
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
